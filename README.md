@@ -138,7 +138,7 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
   - Product development
   - Business process improvement
   - Revenue modeling
-Regulatory compliance
+  - Regulatory compliance
 - Adaptability
   - Quick learning
   - Working across multiple industries
