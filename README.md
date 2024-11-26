@@ -1,3 +1,5 @@
+🇵🇹 [Clique aqui para versão em Português](./pt_PT/README.md)
+---
 # Filipe Estácio
 ## Professional Summary
 Innovative technologist and enterprise architect with a fascinating journey from civil engineering to cutting-edge tech. With over 15 years of experience spanning utilities infrastructure, software development, and technical leadership, I've developed a unique ability to bridge the gap between traditional engineering and modern software solutions. Currently serving as CTO and Co-Founder of a startup in the UK utilities sector, where I combine deep domain expertise with cloud architecture to revolutionize how utilities connect with customers.
