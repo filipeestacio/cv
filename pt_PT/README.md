@@ -49,7 +49,7 @@ O que verdadeiramente me motiva é a oportunidade de estabelecer pontes entre in
 - Empreguei técnicas avançadas de troubleshooting para investigar e resolver problemas técnicos complexos usando AWS Cloudwatch e Github.
 - Desenhei e implementei um sistema abrangente de monitorização usando Prometheus e Grafana, implementado em AWS ECS via Cloudformation, para identificar e mitigar proativamente potenciais problemas.
 
-### Arquiteto Empresarial, Designer de Produto
+### Arquiteto Empresarial, Designer de Produto | Freelance
 *Janeiro 2019 - Março 2020*
 - Desempenhei um papel fundamental no desenho e desenvolvimento de uma solução inovadora de gestão de obras para o setor de utilities do Reino Unido.
 - Contribuições principais incluem:
