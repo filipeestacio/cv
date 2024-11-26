@@ -12,7 +12,7 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 - 📧 f.estacio@gmail.com
 - 📱 Phone: (+44) 7989 404 068
 - 🔗 LinkedIn: linkedin.com/in/filipestacio
-- 🌐 Portfolio: www.filipeestacio.dev
+- 🌐 Website: www.filipeestacio.dev
 - 📍 Location: York, UK
 
 ## Work Experience
