@@ -2,7 +2,7 @@
 ---
 # Filipe Estácio
 ## Professional Summary
-Innovative technologist and enterprise architect with a fascinating journey from civil engineering to cutting-edge tech. With over 15 years of experience spanning utilities infrastructure, software development, and technical leadership, I've developed a unique ability to bridge the gap between traditional engineering and modern software solutions. Currently serving as CTO and Co-Founder of a startup in the UK utilities sector, where I combine deep domain expertise with cloud architecture to revolutionize how utilities connect with customers.
+Innovative software developer and enterprise architect with a fascinating journey from civil engineering to cutting-edge tech. With over 15 years of experience spanning utilities infrastructure, software development, and technical leadership, I've developed a unique ability to bridge the gap between traditional engineering and modern software solutions. Currently serving as CTO and Co-Founder of a startup in the UK utilities sector, where I combine deep domain expertise with cloud architecture to revolutionize how utilities connect with customers.
 
 My career path has given me a distinctive perspective on problem-solving: from managing London's water networks during the 2012 Olympics to architecting serverless AWS solutions for modern startups. I excel at transforming complex business requirements into scalable technical solutions, always keeping user experience and business value at the forefront. Whether I'm designing enterprise architectures, leading technical teams, or getting hands-on with full-stack development, I bring both strategic vision and practical implementation skills to every project.
 

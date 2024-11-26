@@ -2,7 +2,8 @@
 ---
 # Filipe Estácio
 ## Resumo Profissional
-Tecnólogo inovador e arquiteto empresarial com um percurso fascinante da engenharia civil à tecnologia de ponta. Com mais de 15 anos de experiência abrangendo infraestruturas de utilities, desenvolvimento de software e liderança técnica, desenvolvi uma capacidade única de estabelecer a ponte entre a engenharia tradicional e as soluções de software modernas. Atualmente, ocupo o cargo de CTO e Co-Fundador de uma startup no setor de utilities do Reino Unido, onde combino profundo conhecimento do domínio com arquitetura cloud para revolucionar a forma como as utilities se conectam com os clientes.
+
+Engenheiro de software e arquiteto empresarial com um percurso fascinante da engenharia civil à tecnologia de ponta. Com mais de 15 anos de experiência abrangendo infraestruturas de utilities, desenvolvimento de software e liderança técnica, desenvolvi uma capacidade única de estabelecer a ponte entre a engenharia tradicional e as soluções de software modernas. Atualmente, ocupo o cargo de CTO e Co-Fundador de uma startup no setor de utilities do Reino Unido, onde combino profundo conhecimento do domínio com arquitetura cloud para revolucionar a forma como as utilities se conectam com os clientes.
 
 O meu percurso profissional proporcionou-me uma perspetiva distintiva na resolução de problemas: desde a gestão das redes de água de Londres durante os Jogos Olímpicos de 2012 até à arquitetura de soluções serverless AWS para startups modernas. Destaco-me na transformação de requisitos complexos de negócio em soluções técnicas escaláveis, mantendo sempre a experiência do utilizador e o valor para o negócio em primeiro plano. Seja a desenhar arquiteturas empresariais, a liderar equipas técnicas ou a desenvolver full-stack, trago tanto visão estratégica como competências práticas de implementação para cada projeto.
 
