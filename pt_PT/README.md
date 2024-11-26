@@ -1,4 +1,4 @@
- 🇬🇧 [Click here to English version](../README.md)
+ 🇬🇧 [Click here for English version](../README.md)
 ---
 # Filipe Estácio
 ## Resumo Profissional
