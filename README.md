@@ -50,7 +50,7 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 - Employed advanced troubleshooting techniques to investigate and resolve complex technical issues using AWS Cloudwatch and Github.
 - Designed and implemented a comprehensive monitoring system using Prometheus and Grafana, deployed on AWS ECS via Cloudformation, to proactively identify and mitigate potential issues.
 
-### Enterprise Architect, Product Designer
+### Enterprise Architect, Product Designer | Freelance
 *January 2019 - March 2020*
 - Played a key role in the design and development of a novel works management solution for the UK utilities sector.
 - Key contributions include:
