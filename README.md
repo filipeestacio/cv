@@ -1,6 +1,6 @@
 # Filipe Estácio
 ## Professional Summary
-Innovative software developer and enterprise architect with a fascinating journey from civil engineering to cutting-edge tech. With over 15 years of experience spanning utilities infrastructure, software development, and technical leadership, I've developed a unique ability to bridge the gap between traditional engineering and modern software solutions. Currently serving as CTO and Co-Founder of a startup in the UK utilities sector, where I combine deep domain expertise with cloud architecture to revolutionize how utilities connect with customers.
+Software developer and enterprise architect with a fascinating journey from civil engineering to cutting-edge tech. With over 15 years of experience spanning utilities infrastructure, software development, and technical leadership, I've developed a unique ability to bridge the gap between traditional engineering and modern software solutions. Currently serving as CTO and Co-Founder of a startup in the UK utilities sector, where I combine deep domain expertise with cloud architecture to revolutionize how utilities connect with customers.
 
 My career path has given me a distinctive perspective on problem-solving: from managing London's water networks during the 2012 Olympics to architecting serverless AWS solutions for modern startups. I excel at transforming complex business requirements into scalable technical solutions, always keeping user experience and business value at the forefront. Whether I'm designing enterprise architectures, leading technical teams, or getting hands-on with full-stack development, I bring both strategic vision and practical implementation skills to every project.
 
@@ -10,7 +10,6 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 - 📧 f.estacio@gmail.com
 - 📱 Phone: (+44) 7989 404 068
 - 🔗 LinkedIn: linkedin.com/in/filipestacio
-- 🌐 Website: www.filipeestacio.dev
 - 📍 Location: York, UK
 
 ## Work Experience
@@ -24,9 +23,9 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
   - Collaborated with designers (using Figma) to create a user-friendly interface.
   - Developed the revenue model and business plan.
   - Conceptualized and designed the product architecture, applying concepts of Enterprise Architecture.
-  - Developed and deployed core backend services utilising AWS Serverless technologies.
-  - Implemented frontend interfaces for user interaction using React Remix.
-  - Ensured optimal performance, security, and scalability by implementing a multi-account AWS architecture leveraging AWS Organizations.
+  - Developed and deployed core backend services utilising AWS Serverless technologies and event-driven architecture.
+  - Implemented frontend interfaces for user interaction using React.
+  - Ensured optimal performance, security, and scalability by implementing a multi-account AWS architecture.
 
 ### Application Support Engineer | My Money Matters
 *April 2024 - Present*
@@ -100,7 +99,7 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 ## Skills
 ### Technical Skills
 - **Cloud Platforms:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, ECS), GCP, Azure, Heroku
-- **Programming:** NodeJS, Python, React, React-Remix
+- **Programming:** Typescript, Python, React, Rust, Java, Go
 - **Web Technologies:** WebRTC, WebSockets, RESTful APIs
 - **Databases:** DynamoDB, Redis, Multi-database architectures
 - **DevOps:** Grafana, Prometheus, PagerDuty, CI/CD, AWS Cloudformation, AWS CDK
