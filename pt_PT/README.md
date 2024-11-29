@@ -1,5 +1,3 @@
- 🇬🇧 [Click here for English version](../README.md)
----
 # Filipe Estácio
 ## Resumo Profissional
 Engenheiro de software e arquiteto empresarial com um percurso fascinante da engenharia civil à tecnologia de ponta. Com mais de 15 anos de experiência abrangendo infraestruturas de utilities, desenvolvimento de software e liderança técnica, desenvolvi uma capacidade única de estabelecer a ponte entre a engenharia tradicional e as soluções de software modernas. Atualmente, ocupo o cargo de CTO e Co-Fundador de uma startup no setor de utilities do Reino Unido, onde combino profundo conhecimento do domínio com arquitetura cloud para revolucionar a forma como as utilities se conectam com os clientes.
@@ -12,7 +10,6 @@ O que verdadeiramente me motiva é a oportunidade de estabelecer pontes entre in
 - 📧 f.estacio@gmail.com
 - 📱 Telemóvel: (+44) 7989 404 068
 - 🔗 LinkedIn: linkedin.com/in/filipestacio
-- 🌐 Website: www.filipeestacio.dev
 - 📍 Localização: York, Reino Unido
 
 ## Experiência Profissional
@@ -20,13 +17,13 @@ O que verdadeiramente me motiva é a oportunidade de estabelecer pontes entre in
 *Janeiro 2019 - Presente*
 - Conduzi a visão técnica e estratégia de produto, transformando uma ideia inovadora num produto totalmente funcional.
 - Através da utilização de tecnologias serverless AWS, alcançámos ciclos de desenvolvimento rápidos, reduzimos custos operacionais e melhorámos significativamente a escalabilidade.
-- Arquitetei e implementei com sucesso uma solução serverless robusta na AWS, englobando API Gateway, Lambda, DynamoDB e S3. Contribuições principais incluem:
+- Arquitetei e implementei com sucesso uma solução serverless robusta na AWS, englobando API Gateway, Lambda, DynamoDB e S3. Contribui��ões principais incluem:
   - Conceptualização das funcionalidades core do produto e definição do MVP.
   - Colaboração com designers (usando Figma) para criar uma interface intuitiva.
   - Desenvolvimento do modelo de receita e plano de negócios.
   - Conceptualização e desenho da arquitetura do produto, aplicando conceitos de Arquitetura Empresarial.
-  - Desenvolvimento e implementação de serviços backend core utilizando tecnologias AWS Serverless.
-  - Implementação de interfaces frontend para interação do utilizador usando React Remix.
+  - Desenvolvimento e implementação de serviços backend core utilizando tecnologias AWS Serverless e arquitetura orientada a eventos.
+  - Implementação de interfaces frontend para interação do utilizador usando React.
   - Garantia de performance, segurança e escalabilidade otimizadas através da implementação de uma arquitetura AWS multi-conta utilizando AWS Organizations.
 
 ### Engenheiro de Suporte de Aplicações | My Money Matters
@@ -101,7 +98,7 @@ O que verdadeiramente me motiva é a oportunidade de estabelecer pontes entre in
 ## Competências
 ### Competências Técnicas
 - **Plataformas Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, ECS), GCP, Azure, Heroku
-- **Programação:** NodeJS, Python, React, React-Remix
+- **Programação:** Typescript, Python, React, Rust, Java, Go
 - **Tecnologias Web:** WebRTC, WebSockets, RESTful APIs
 - **Bases de Dados:** DynamoDB, Redis, Arquiteturas multi-database
 - **DevOps:** Grafana, Prometheus, PagerDuty, CI/CD, AWS Cloudformation, AWS CDK
