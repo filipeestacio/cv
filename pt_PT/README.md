@@ -17,7 +17,7 @@ O que verdadeiramente me motiva é a oportunidade de estabelecer pontes entre in
 *Janeiro 2019 - Presente*
 - Conduzi a visão técnica e estratégia de produto, transformando uma ideia inovadora num produto totalmente funcional.
 - Através da utilização de tecnologias serverless AWS, alcançámos ciclos de desenvolvimento rápidos, reduzimos custos operacionais e melhorámos significativamente a escalabilidade.
-- Arquitetei e implementei com sucesso uma solução serverless robusta na AWS, englobando API Gateway, Lambda, DynamoDB e S3. Contribui��ões principais incluem:
+- Arquitetei e implementei com sucesso uma solução serverless robusta na AWS, englobando API Gateway, Lambda, DynamoDB e S3. Contribuições principais incluem:
   - Conceptualização das funcionalidades core do produto e definição do MVP.
   - Colaboração com designers (usando Figma) para criar uma interface intuitiva.
   - Desenvolvimento do modelo de receita e plano de negócios.
