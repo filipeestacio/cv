@@ -15,7 +15,7 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 ## Work Experience
 ### CTO, Co-Founder, Full-Stack Developer | My Utility Connection
 *January 2019 - Present*
-- Drove the technical vision and product strategy, transforming a novel idea into a fully functional product.
+- Formulated the technical vision and product strategy, transforming a novel idea into a fully functional product.
 - By utilizing AWS serverless technologies, we achieved rapid development cycles, reduced operational overhead, and significantly improved scalability.
 - Successfully architected and implemented a robust serverless solution on AWS, encompassing API Gateway, Lambda, DynamoDB, and S3 among other services.
 - Key contributions include:
