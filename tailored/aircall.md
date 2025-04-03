@@ -39,14 +39,14 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 *January 2022 - March 2024*
 - Delivered a project to refactor the payment and billing modules using AWS SQS and AWS Lambda.
 - Extended the platform to support voice calls using Redis, WebRTC and Websockets, leveraging APIs for major VoIP telecommunication providers.
-- Successfully designed and implemented backend solutions to accommodate evolving business requirements integrating with third party APIs such as Stripe, Google Places, VoIP providers and others.
+- Successfully designed and implemented backend solutions to accommodate evolving business requirements integrating with third party APIs such as Aircall, Twilio, Nexmo, Bandwidth, Stripe, Google Places, and others.
 - Played a pivotal role in the development and enhancement of the company's core product by resolving complex technical issues and implementing new features.
 
 ### Application Support Engineer | Sakari
 *November 2020 - January 2022*
 - Successfully managed the entire customer support lifecycle, including incident response, problem resolution, and knowledge base management.
 - Effectively utilized Zendesk and Hubspot to provide efficient and timely customer support.
-- Employed advanced troubleshooting techniques to investigate and resolve complex technical issues using AWS Cloudwatch and Github.
+- Employed advanced troubleshooting techniques to investigate and resolve complex technical issues using AWS Cloudwatch and GitHub.
 - Designed and implemented a comprehensive monitoring system using Prometheus and Grafana, deployed on AWS ECS via Cloudformation, to proactively identify and mitigate potential issues.
 
 ### Enterprise Architect, Product Designer | Freelance
@@ -68,27 +68,13 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 
 ### Clean Water Network Manager | Thames Water
 *May 2015 - December 2015*
-- Accountable for the Eastern Region of Thames Water's Clean Water Network (City of London, Croydon and East London among others).
-- Management responsibility for a team of 13 direct reports focused on delivering actions to reduce leakage in the network, improving quality of service, maintaining customer satisfaction, and ensuring compliance with regulatory requirements.
+
 
 ### Clean Water Network Engineer | Thames Water
 *September 2010 - May 2015*
-- Responsible for ensuring risk free operations of the network as the asset owner.
-- Excellent performance in risk assessment and planning complex interventions in the clean water network to benefit the business and the customers.
-- Involved in several key projects to improve the overall performance of the business such as:
-  - Process mapping a new approach to low pressure investigations, resulting in highest RoI and second highest overall improvement in customer satisfaction in the business at the time.
-  - The development of the user guides for the deployment of SAP and the integration of ArcGIS with the daily tasks of the Network Optimisation Team resulting in a 1 FTE benefit for the team.
-  - Strong focus in improving the North East London water supply zone of Woodford which resulted in the delivery of a resilient and optimised area, consistently strong in leakage performance and customer satisfaction.
-  - Key role in the delivery of several complex projects including works for the London 2012 Olympics, Crossrail, and the isolation of the outlets of Coppermills Water Treatment Works.
-- Hands on attitude has resulted in a very close working relationship with Field Services, with an excellent understanding of the risks and limitations of field work as well as the procedures for investigations.
-- Communication skills and strong professional ethics have resulted in a good relationship with key stakeholders such as Planning & Dispatch, Network Management Centre, London Water Control Centre, Coppermills WTW and Capital Delivery.
 
 ### Civil Engineer | Veolia Water
 *May 2008 - August 2010*
-- Designed and estimated costs for waste water connections for new customers during Veolia’s adoption of wastewater services in the county of Mafra, Portugal.
-- Reviewed and optimised the design of the clean water network in the county of Mafra.
-- Designed and built a dynamic hydraulic model based on SCADA telemetry to predict demand and manage the acquisition of water from external sources.
-- Collaborated with other water companies and the National Civil Engineering Laboratory (LNEC) in a multidisciplinary project to implement European Union guidelines for water management in Portugal.
 
 ## Education
 ### Civil Engineering | Instituto Superior Técnico
@@ -99,9 +85,9 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 ## Skills
 ### Technical Skills
 - **Cloud Platforms:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, ECS), GCP, Azure, Heroku
-- **Programming:** Typescript, Python, React, Rust, Go
+- **Programming:** TypeScript, Python, React, Rust, Go
 - **Web Technologies:** WebRTC, WebSockets, RESTful APIs, GraphQL
-- **Databases:** DynamoDB, Redis, PostgresQL, SQL Server, Spanner  
+- **Databases:** DynamoDB, Redis, PostgreSQL, SQL Server, Spanner  
 - **DevOps:** Grafana, Prometheus, PagerDuty, CI/CD, AWS Cloudformation, AWS CDK
 - **Enterprise Systems:** Oracle Service Cloud, SAP, ArcGIS, SCADA, Zendesk, HubSpot
 - **Architecture:** Enterprise Architecture, Serverless, System Design, Data Pipeline Design
@@ -139,12 +125,6 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
 - Adaptability
   - Quick learning
   - Working across multiple industries
-  - Managing changing priorities
-  - Technology adoption
-
-## Certifications
-- AWS Cloud Practitioner (Amazon Web Services, 2020)
-- PRINCE2 Foundation (AXELOS, 2015)
 
 ## Languages
 - Portuguese (Native)
