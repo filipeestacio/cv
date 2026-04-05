@@ -7,10 +7,9 @@ My career path has given me a distinctive perspective on problem-solving: from m
 What truly drives me is the opportunity to bridge traditional infrastructure with modern technology, creating solutions that make a real difference. My background in both civil engineering and software development allows me to speak the language of both worlds, making me particularly effective in digital transformation initiatives where technical innovation meets real-world infrastructure challenges.
 
 ## Contact Information
-- 📧 f.estacio@gmail.com
-- 📱 Phone: (+44) 7989 404 068
+- 📧 f.estacio@gmail.com 
 - 🔗 LinkedIn: linkedin.com/in/filipestacio
-- 📍 Location: York, UK
+- 📍 Location: Caldas da Rainha, Portugal
 
 ## Work Experience
 ### CTO, Co-Founder, Full-Stack Developer | My Utility Connection
@@ -27,8 +26,11 @@ What truly drives me is the opportunity to bridge traditional infrastructure wit
   - Implemented frontend interfaces for user interaction using React.
   - Ensured optimal performance, security, and scalability by implementing a multi-account AWS architecture.
 
+### Software Engineer | Aircall
+*August 2025 - Present*
+
 ### Application Support Engineer | My Money Matters
-*April 2024 - Present*
+*April 2024 - July 2025*
 - Played a pivotal role during a major product release which involved a move to a multi-cloud, multi-database architecture, by ensuring issues were quickly triaged and investigated for root cause before handing over to Engineering for resolving.
 - Implemented a comprehensive monitoring system using Google Cloud Observability to monitor the health of the application and the underlying infrastructure, and enable automated responses to incidents.
 - Ensured smooth communication between the Engineering Team and the rest of the business.
